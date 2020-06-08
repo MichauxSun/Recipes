@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Recipes", "..\..\..\..\..\Users\kendi\source\repos\Recipes\Recipes.phpproj", "{3B5D6F17-CF14-447E-B63D-01C5A4EE676A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5D6F17-CF14-447E-B63D-01C5A4EE676A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5D6F17-CF14-447E-B63D-01C5A4EE676A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FAF885-6137-4266-A52C-44E6E2A52E97}
+	EndGlobalSection
+EndGlobal
